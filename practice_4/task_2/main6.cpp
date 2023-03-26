@@ -72,7 +72,6 @@ int main()
             count++;
     }
     std::cout << "Количество усечённых конусов образованных от одного конуса: " << count << std::endl;
-    //pause for exit
     std::cout << "Press enter to exit...";
     std::cin.get();
     return 0;
